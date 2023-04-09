@@ -285,7 +285,7 @@ TextureImporter:
       213: 8292359054348042300
     second: tilemap2_131
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -306,6 +306,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -344,6 +345,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -371,6 +373,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2368,6 +2382,101 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      tilemap2_0: 3711647737611507086
+      tilemap2_1: 4374776976774177105
+      tilemap2_10: 2229195209944581240
+      tilemap2_100: -8259600447813652513
+      tilemap2_101: -2876081494044563852
+      tilemap2_102: 8414886249296448745
+      tilemap2_103: -3679877306140646753
+      tilemap2_104: 2272806199763144372
+      tilemap2_105: 5768358106580054204
+      tilemap2_106: -8892354698972499097
+      tilemap2_107: 347997363984468643
+      tilemap2_11: 5514785145594037387
+      tilemap2_111: 8858870586857523803
+      tilemap2_112: 8377582699796543213
+      tilemap2_113: 5966558430203729364
+      tilemap2_114: 7847269565872415187
+      tilemap2_115: -1734627756406588818
+      tilemap2_116: -5369862082605584426
+      tilemap2_117: -6240111200570172796
+      tilemap2_118: -439483577372931674
+      tilemap2_119: 5677888880321559723
+      tilemap2_12: 8136202232313926208
+      tilemap2_123: -8552213019081518292
+      tilemap2_124: -783671475167066224
+      tilemap2_125: -4913450159620801700
+      tilemap2_126: 4529943418406923185
+      tilemap2_127: 6593818221440751307
+      tilemap2_128: -921867942253330113
+      tilemap2_129: 7765603580542935626
+      tilemap2_13: 6264076915455979546
+      tilemap2_130: 2162183527274338601
+      tilemap2_131: 8292359054348042300
+      tilemap2_14: 8299154671552537513
+      tilemap2_15: 1027356099460988588
+      tilemap2_16: -8640899314681605927
+      tilemap2_17: 307060926540696777
+      tilemap2_18: 5974137392662998896
+      tilemap2_19: 136291262888432755
+      tilemap2_2: 1000440457728356744
+      tilemap2_20: -5648749110667271458
+      tilemap2_21: -1586266213140629501
+      tilemap2_22: 4618162351559882378
+      tilemap2_23: -4548816074876741241
+      tilemap2_24: 5753780804816041006
+      tilemap2_25: -4227914962147335003
+      tilemap2_26: 5866412504132127524
+      tilemap2_27: 949706135391381081
+      tilemap2_28: 7039583114054409085
+      tilemap2_29: 1358397052489610262
+      tilemap2_3: -4214560704313396357
+      tilemap2_30: -3445440544392371029
+      tilemap2_31: 5546911499042454672
+      tilemap2_32: -8034000941430251673
+      tilemap2_33: 2416389705857107082
+      tilemap2_34: 5462303913938563457
+      tilemap2_35: -4311270468398765337
+      tilemap2_36: 5269351125145602237
+      tilemap2_37: -8396831587470944275
+      tilemap2_38: 5084135262100547867
+      tilemap2_39: 2176578764345555229
+      tilemap2_4: 292129735331028476
+      tilemap2_40: -2992903933528920270
+      tilemap2_41: -3252159002545144182
+      tilemap2_42: 6448763581157395746
+      tilemap2_43: -5091956762509223090
+      tilemap2_44: -8812473632936840121
+      tilemap2_45: -2130947521201218542
+      tilemap2_46: 5992656272482779355
+      tilemap2_47: -7508125667665568926
+      tilemap2_48: -831166442880497074
+      tilemap2_5: -5733781401960278071
+      tilemap2_56: 2840831454043522300
+      tilemap2_57: -1353156714909302919
+      tilemap2_58: 8591317491096963316
+      tilemap2_59: -3370151387237886414
+      tilemap2_6: -1440980221036405784
+      tilemap2_68: 3972383460405909687
+      tilemap2_69: 3535793196584406622
+      tilemap2_7: 5388695136138257630
+      tilemap2_70: -4988963630728238049
+      tilemap2_71: -369595826940411881
+      tilemap2_77: 2663633669555074960
+      tilemap2_8: -8882659825511198783
+      tilemap2_80: 8892070907449506781
+      tilemap2_81: -3675687117065223243
+      tilemap2_82: -7225449360461396170
+      tilemap2_83: -2054567374998586644
+      tilemap2_9: 7470530167482166176
+      tilemap2_92: -1252091307062370117
+      tilemap2_93: 4229964053365774444
+      tilemap2_94: -4620030245883685415
+      tilemap2_95: 7744943084450609673
+      tilemap2_96: -7309512861146690828
+      tilemap2_99: 563259629149855931
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

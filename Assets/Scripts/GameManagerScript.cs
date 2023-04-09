@@ -5,19 +5,38 @@ using UnityEngine.UI;
 
 public class GameManagerScript : MonoBehaviour
 {
+
     public int gold;
+    public int science;
+    public int fun;
+    public int capacity;
+    public int students;
+
     public Text goldDisplay;
+    public Text scienceDisplay;
+    public Text funDisplay;
+    public Text capacityDisplay;
+    public Text studentsDisplay;
+    public Text LoseText;
+    public Text WinText;
 
     public GameObject Grid;
     public CustomCursorScript customCursor;
+    public studentcreate sc;
 
     public TileScript[] tiles;
 
+    
     private BuildingScript buildingToPlace;
     
 
     private void Update(){
         goldDisplay.text = gold.ToString();
+        scienceDisplay.text = science.ToString();
+        funDisplay.text = fun.ToString();
+        capacityDisplay.text = capacity.ToString();
+        studentsDisplay.text = students.ToString();
+        sc.maxstundentsnumber = fun;
 
         if(Input.GetMouseButton(0) && buildingToPlace != null){
             TileScript nearestTile = null;
@@ -36,13 +55,15 @@ public class GameManagerScript : MonoBehaviour
                 Grid.SetActive(false);
                 customCursor.gameObject.SetActive(false);
                 Cursor.visible=true;
-
-
-
             }
-
         }
-
+        if(science<=0){
+            LoseText.gameObject.SetActive(true);
+            Time.timeScale = 0;
+        }else if(students>=100){
+            WinText.gameObject.SetActive(true);
+            Time.timeScale = 0;
+        }
     }
     
     public void BuyBuilding(BuildingScript building){
@@ -59,3 +80,4 @@ public class GameManagerScript : MonoBehaviour
     }
   
 }
+
