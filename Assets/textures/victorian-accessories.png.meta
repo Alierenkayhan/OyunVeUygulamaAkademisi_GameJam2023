@@ -1,0 +1,7351 @@
+fileFormatVersion: 2
+guid: 9397c2d1ec95e6e4c96abc22f995830e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cardak1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2432
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4056117c3b82a4147a2bb3d475a944a7
+      internalID: -1099501925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardak2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2432
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aed7d48c57f1e647b64a5a52f8b8cdd
+      internalID: 1333732557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardak3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2432
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c4af96e9fce3649889a3dc968bc83b
+      internalID: 1137520623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardak4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2432
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcad6b4ffb1fcce4bb388def28883586
+      internalID: 1219630025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardak5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2432
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2988cf575d1854ca2c68d30376101d
+      internalID: 173964185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardak6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2432
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03805369487576b4583f7824c0558c21
+      internalID: 1981280737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisCepheSuslemesi2
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2085
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531cf3d9108f48345b29d5f907a89d15
+      internalID: 500684529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_7
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1873
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c3a6630c40df94cbb01bcdc0d8bcf7
+      internalID: -1071516346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temelliduvar1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2352
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b507038cdb4bddb4aa3e080708a9bade
+      internalID: 1121668304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temelliduvar2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2352
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54311d35deb54c4c9ff040ba3eb3e83
+      internalID: 608558687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temelliduvar3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2352
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f168712af5e45e84b9e441f68997918a
+      internalID: -349543293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temelliduvar5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2353
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d46c90124a22742a15c9f1332c68b0
+      internalID: -458473115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temelliduvar6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2352
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e94dddb90784e418a3245a619f78c4
+      internalID: -298879831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giris3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1969
+        width: 93
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12448f5eee308349833dc47510a51cf
+      internalID: -1879049118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balkon2
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2211
+        width: 98
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913ab366916003045be5e74dc0006fa1
+      internalID: -1371553975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisCepheSuslemesi
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2111
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6925653227ad8ec41941e766db714bd6
+      internalID: -1880907340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvOnuCit2
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2176
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d800fadec3530c4ea006f3cafdbf2cb
+      internalID: 721344611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UzunDuvar1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2240
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3183aff1c64ea28459458c1632dc174a
+      internalID: -20721183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duvar3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d906f3ca9a1a6004b888ccbd7db7be0d
+      internalID: -16013816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UzunDuvar2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2240
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5dcbc250df17f47a8503061c44d63f
+      internalID: -192558110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UzunDuvar3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2240
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f433eb6fc53df4eab7cd6908d03330
+      internalID: 1079524574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemelveDuvar6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8060c5255401cd4da716d0b12a3e4a7
+      internalID: -1752564305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisCepheSuslemesi4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2053
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ce6d5128feba645bf9664ee7f329e7
+      internalID: 2070092353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giris4
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1969
+        width: 94
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc000801537e6d4c807a014c2bd165d
+      internalID: -1424981092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balkon1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2207
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac189b0b62dc2d148b8d966bcade8fb1
+      internalID: 505002256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balkon3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2240
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02d5a648839b5343a9361415ad1d8c2
+      internalID: -778109479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvOnuCit1
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2209
+        width: 71
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab7f235e322474da1b82604b0c07d2
+      internalID: 1710696305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2075
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27773691b037fab4c916a3efc13afae2
+      internalID: -1694110463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2144
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2270879fe9c4b94a80e3e6cdaaca392
+      internalID: 863166606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2145
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d58899676266743a29d532551725cc
+      internalID: 1271874746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2144
+        width: 85
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ec770974f47d14c9d52379db8d610a
+      internalID: -1474615697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_31
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2144
+        width: 87
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c431790d2f694d4d8ebcf78e33bd183
+      internalID: -1250912573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirisCati1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2080
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77b714246a50534ab0391e3a60e31a3
+      internalID: 1244073911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giris
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2080
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fd4f8443673df4db1564cec9fd0710
+      internalID: 40972407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giris2
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2080
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800727fb4900adb4188135bf20b06b3c
+      internalID: 773780075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balkon
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2150
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5130e07267d3940abc75fea7ac7fdd
+      internalID: 625831979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisCepheSuslemesi3
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2048
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c181b8b79ba384fa532e3a1078deb2
+      internalID: -1065296044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolon
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1908
+        width: 18
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af63de40f952284d9d075d1cbb6b6a5
+      internalID: -304005917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolon4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1897
+        width: 18
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974a65418b3dcc45a31f7e91015a35b
+      internalID: 478980159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolon7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1908
+        width: 16
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a004ac89d2ba34842933bcc1eaea9254
+      internalID: 2052483859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giris1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1952
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4da8802d2b3814588fb4c5839a6cf4
+      internalID: 2013861138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giri
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1952
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142467dc7b517a4ab835ac1898a4368
+      internalID: 693692805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gir
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1984
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99880746d8e46a4ba2cad4db1be4c86
+      internalID: 1896942216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1760
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e2a5f5c825a64ab429424b78e5257
+      internalID: 300412261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisCepheDemir
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2002
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2830d229d98bc41b6333d583312466
+      internalID: 787640261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisCepheSuslemesi6
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1983
+        width: 18
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282f560c74e76c84da5997362b7b97a7
+      internalID: -1676355914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisCepheSuslemesi5
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2032
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7606692f83a795f499f9a134c6ca5f48
+      internalID: -1069862454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoluArch1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1824
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccb7feb2625335488cb1c38b473d7e6
+      internalID: 683208585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoluArch2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1824
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d14516fd58eedc4d886eef812eb1da6
+      internalID: 1043602812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1760
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2864545f494e043ac1fb719170b5bc
+      internalID: -849792433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iciDoluArch
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1760
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f94da84b88a85c4181c5f93424ff696
+      internalID: -450263089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolonAlti
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1824
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bab9407287452041bcc826e2c750866
+      internalID: 923364613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1632
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb86256b961c3e4e836b6696ec3ca34
+      internalID: -1077841816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_53
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1600
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94290d213466c2e4b8cb90d1446db31c
+      internalID: 1377229365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arch5
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1824
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b9fe1e90585ec4f99899a6b850c388
+      internalID: -674581164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BosArch
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1760
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db69bcfac236447ba2a4ae911a88b9
+      internalID: -752503467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BosArch2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1760
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5257d1d299d513a48ad9827ab178a8e5
+      internalID: -64229525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1824
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f9ee1a46677d6448613fdf35432615
+      internalID: 1498059047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iciDoluArch2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1760
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5079d44ea53cb41928f3fdcd694577
+      internalID: 1997465899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1696
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dacf5fa06947b46ad6dc4945b31be7
+      internalID: -530477692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_60
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1748
+        width: 95
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e4e0966d1428d4ba338aabf71d3632
+      internalID: -1966445588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_61
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1686
+        width: 93
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023d030a27ecdd24b8ec523e75edf2f1
+      internalID: -174009734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_62
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1665
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b0c8956667dac448548ad15f99df95
+      internalID: 14494311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1663
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4b63d060234764ba1f0b4d149869a4
+      internalID: 122530451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_64
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1755
+        width: 96
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664e0a8091c4a5341874e399aed86ba4
+      internalID: 1434421416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2d06de59b191547b07c2c029fe2d64
+      internalID: 1267898117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1600
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea31c0beb2743747b20d3ee68961998
+      internalID: 1310413071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_67
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1631
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d363dd97af38cb04e8b66c650d5c4727
+      internalID: -1156780763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_68
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1632
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1646d042b4b40c94984ff92e24ced479
+      internalID: -474989831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_69
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1600
+        width: 92
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f020f39cbe75849b91feaff290f168
+      internalID: -1751904465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1716
+        width: 94
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c211bdbe93289141ae20e93c010aeb8
+      internalID: 116589318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_71
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1657
+        width: 92
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44128aef17a6898488f8d5554e9c77ff
+      internalID: 1286132945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_72
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1696
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d10c919c4275eb408818e2567037095
+      internalID: -1116325686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_73
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1247
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f572426f738e41458484681fce3366a
+      internalID: -1664962330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1447
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb54c383f8eee545a7eb903bac2bcda
+      internalID: -844890622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1447
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8bd12c81c790344af90d53b1a4857c
+      internalID: -610017319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1447
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7de7c748aea3a4bbd23160d33f51e4
+      internalID: 763576755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_77
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1446
+        width: 95
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eff14fd3c2cb434d973cdd32cd9e0b6
+      internalID: -1012319209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1447
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7626a7bcccd85c8408dd816f2b2d2b5d
+      internalID: -1015370563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1448
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399664f809bf755408ef30db2b9aa879
+      internalID: 1715591885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_80
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1448
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc552be3287f41c48941a13681a86cdf
+      internalID: 1599173779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_81
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1409
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5a906922706a846b583b166fc69af2
+      internalID: 361845996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_82
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1408
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a620a5914d3b54aabe398d5b8122aa
+      internalID: -2022494587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_83
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1389
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09a8fa61c5e98d46a68fe2c942dd4e6
+      internalID: -1287123840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_84
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1388
+        width: 85
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d7c5906ab6d3440bc100139919fcbf
+      internalID: 1234221884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_85
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1389
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90c934621a311e44824e56d9e241e7e
+      internalID: -269441943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_86
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1389
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453af61c55319d4ca082f89fee6943e
+      internalID: 459853615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_87
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1389
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1257720145c15418f89b5a2e3ff19a
+      internalID: 125238114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_88
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1389
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270809fe2de0ee242891fbe5bc8b0cdb
+      internalID: -1967983943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_89
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1389
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67797b6764218cc48a360e0ce8ff79d8
+      internalID: -1939709762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_90
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1344
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4e2336cff544e4e8762e8be402ff0a
+      internalID: -82146353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_91
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1367
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8771f977ecd4035478a90e2258bce6d9
+      internalID: 1678046336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_92
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1248
+        width: 84
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3901ca060ae0647902f6a0d611d14e
+      internalID: -1249599429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_93
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1247
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba18bae444530f4f876f0bc24d71196
+      internalID: 1221700600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_94
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1247
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38877406a2732b6449e3d15ad9756308
+      internalID: 1809679492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_95
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1248
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aecc60007224d048bb196f1c05e7f78
+      internalID: -2025403987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_96
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1248
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3ef214e599d2d489b933e41307174a
+      internalID: -118161883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1220
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe252d10eeabe488052da2688d4d6e
+      internalID: 1666479414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_98
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1220
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab816e332cfe54488eaf1b8ffd9b9a2
+      internalID: -1488710880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_99
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1220
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd8de5c6d4695f4eb9b58cc2f9021a1
+      internalID: 2075091096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_100
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1183
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd381e4add567264ab5b07ce7d42764b
+      internalID: -575892553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_101
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1207
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563816ebceecb4945be648083f3cdcfa
+      internalID: 1043204319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_102
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1087
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b66a50e8b199549a7283d939ed8d11
+      internalID: 708261139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_103
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1087
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9b17f5933ea104b8f77987655875ec
+      internalID: 273268484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_104
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1087
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6add0015b8f15040bf65c9d70dda4ba
+      internalID: 1665432765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_105
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1087
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990d533d0a60f33449a60066f7f78a2e
+      internalID: 287031246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_106
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1088
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f77c55362395d449f0459d2f609c8d
+      internalID: 1290041825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_107
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1113
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc077b054bc4a014f94ccc9234afe68b
+      internalID: -1153787992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_108
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1114
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85caf83ff3f02e746864c47b0f07cffb
+      internalID: 1387152009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_109
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1114
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eda89b0f540bca4ab0a02528bdcfb65
+      internalID: 2037582228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_110
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1088
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea42d1d99d7474a9d1e2b34f2ef114
+      internalID: 1208707743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_111
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1089
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087ede45ed7743e44acff448f8e22c42
+      internalID: -1266368395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 991
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33517c26d04f55442915a11e08b41eb2
+      internalID: -129545920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_113
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 991
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94154e535880303428f858c5dc21a0c1
+      internalID: -1045111033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_114
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 991
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8d6f63a700d5c40b28f08f790f8c39
+      internalID: 2101039386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_115
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 991
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eda82f552167c488e17122738a3fc9
+      internalID: -1650312338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_116
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1036
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42757586b51b91a4680938e1cb15e4af
+      internalID: 1530367677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_117
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1036
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324c8dcc12a02844badb3a315ba3e964
+      internalID: -1547120652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_118
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1036
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4c303879276cd4eabceeaa9d9871bb
+      internalID: -1854074548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_119
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1036
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd6805869560d240985217730aa043f
+      internalID: 27301902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_120
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 927
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c1c0eafaf78de42a0b4e879293197b
+      internalID: -919223434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_121
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 928
+        width: 97
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6052ff11c607b4c87cb10315611a73
+      internalID: -866639500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95040e8a0c352744bab6a4f06b554107
+      internalID: -1337036908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 833
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b120968017964b468063a6375574cb2
+      internalID: 546601159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_124
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 833
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a51e3239107d1f45ae5db880cfa0fd1
+      internalID: -2019395821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_125
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 833
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7684b3c2d9e38504289ae326b547f094
+      internalID: 1979765031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_126
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 770
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb233078a40a504e9676b2ad8a71d1f
+      internalID: -1190515140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_127
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 775
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51752de427d4388409326e06690b2c78
+      internalID: 500786109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_128
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 737
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1019229873133c54799072e0978d6169
+      internalID: -1566868136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_129
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 728
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feca129a4d68a2e4a84025229007beb2
+      internalID: -850131580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_130
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 773
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e94cd070699aa9408c2c0a4e6f83955
+      internalID: 1782690298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_131
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 770
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1412fda68fcdbd940a24c3b97a4ce924
+      internalID: 159498618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 96
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fec8a2ed75260446ab024b008ddceff
+      internalID: 1640063668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_133
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 671
+        width: 102
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d99748d56f8045aa6f976f1d6a933
+      internalID: -1337661239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 671
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b717dd1d642f4e948bd904f32ab34f0b
+      internalID: -1599148325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_135
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 670
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753202f32dbec1841b5d0a28b19162fd
+      internalID: 1035478751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_136
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 741
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb312d4bb2f5b848be249dda79e3582
+      internalID: 435290808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_137
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 664
+        width: 102
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1d558189ac4ae469f4220ed69e8e04
+      internalID: 166112392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_138
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 661
+        width: 98
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999329b6bdbac8545a4528aa7f60e97a
+      internalID: -927730640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_139
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 664
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd96b282806a1549955b5000a96dede
+      internalID: -1218542647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_140
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 669
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fd0e82d3dd3fd468a8a6896aaa30d2
+      internalID: 435085795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_141
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 736
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56d6bdb13d2edc4c8a426efb29b851f
+      internalID: -1111395984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f553960028d0e48af5b4c0ff7c0eb9
+      internalID: 790772439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_143
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 607
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232499c5643df64ca8f9af79d464a74
+      internalID: 965431570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_144
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 607
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db70f142d512fba47ab73a64ae549687
+      internalID: -2050386467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_145
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 607
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413ddc3e20c072449a5f4b3f26c5ca7d
+      internalID: 1693032537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_146
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 472
+        width: 97
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89196f846c92ac743b3dafb55b0649d0
+      internalID: -1853181468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_147
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 601
+        width: 98
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e30b823f421a2439d8d3135c99f6a9
+      internalID: 2088905894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_148
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 596
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec083c7d6164654d91a34d15564dbb0
+      internalID: -539347993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_149
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 599
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41f54d9bc2d354ea3977ff40d0ed28
+      internalID: -712444103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_150
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 606
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba50023f7ff8a974faa6c998ad97ce5e
+      internalID: 1282907697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_151
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 542
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6265c8fd2582c8f4fb751eff214c7f88
+      internalID: -324270331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f8433681ddfa640b71932277ed765c
+      internalID: 1512694832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_153
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5176873a4d094d4285d31560f15f9df
+      internalID: -2115887545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5666929618d354584f68efbec420d5
+      internalID: -199539683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_155
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805cbff6410f97843b5774596a49b12a
+      internalID: -1450961963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c70aca6c6dca0d4dbff94de0a2e10ef
+      internalID: 1277321336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_157
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 472
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b81e165ed95d514798aefede58ac91f
+      internalID: 1018687829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_158
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 415
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e1e012bdf3e824eae6cdf5279b4dc0
+      internalID: -326043876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_159
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 468
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b641a590aee01f84e9cc6c68d26a2cdd
+      internalID: -1941721218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_160
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 416
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46c76137d1158242be78b3894c3bf2d
+      internalID: -1179819762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_161
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 535
+        width: 97
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bf6f63ffc587f47904f2a1bd8f2be1
+      internalID: -779700322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_162
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 309
+        width: 22
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e5b2c843dec4f4fb87644c82611cec
+      internalID: 1259858447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_163
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 305
+        width: 23
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9bf72c47018e34397b463643f67ac7
+      internalID: 1932512065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_164
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 310
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59293e617e0785d4892b4496e1cca9ef
+      internalID: -373141328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_165
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 334
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d31b6a1e91c64abbe5eeb5007d28d
+      internalID: 418242077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_166
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 310
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d65f4d33f519344acacc2e460e7212
+      internalID: 2112825494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_167
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 334
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adc424ac0461d34cacee6572170d29d
+      internalID: 11531123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_168
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 230
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a043a3ce861c64297b43ad81af57fc
+      internalID: -2117649957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_169
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 263
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adeaca6f26865049af202a5c73f756e
+      internalID: -748222109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_170
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 263
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0fad3c89739c74da5fb3ca8e31a231
+      internalID: -614948681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_171
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 269
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1816705f84357945a91f7f05c881a10
+      internalID: 505436885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_172
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 267
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf061f973687521418eb29fc0f19a439
+      internalID: 1698536586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_173
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 268
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1800ee9aee108244e8f1c9e6daf66562
+      internalID: -652133928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_174
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35de8e810a589d48b5bbb07c5530e43
+      internalID: 681738555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_175
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 223
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a460a29ebbe5e409593dd3ac17578c
+      internalID: 1043610591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_176
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557e132d710776c43b5860a5eaf0bcea
+      internalID: -205230409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_177
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 264
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1531220a29c8263479fcfb1004f28d01
+      internalID: -604469372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_178
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 232
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59845e9e6b2cbf48a8d701503ae03d6
+      internalID: -472893151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_179
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 268
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d6db0e9115f1246ba5390b7dec4d69
+      internalID: 2122545718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_180
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 224
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1829e47488889b2469a82e8d667b7286
+      internalID: 1969633293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temelliduvar4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2352
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932699a5fbabb76479fb5a98ba091ac3
+      internalID: -76857366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KisaDuvar1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2296
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea963d6f068a6f14bbef57014f0589de
+      internalID: -136324939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemelveDuvar1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2209
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304fa9eb5927fa945892e5ecf6265945
+      internalID: 1573009196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemelveDuvar
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2208
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517901ea2cf443544a2d51e769dce318
+      internalID: -1056078111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemelveDuvar5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2208
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e669acfde8cfaed4cbfad4faef41c5e7
+      internalID: -643404214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemelveDuvar2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2322d4465b867b408b15cf0995d144c
+      internalID: -366550172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemelveDuvar4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea08519a92a8d84fbf6be04e765684d
+      internalID: -1164197265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuvarKirmizi
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2240
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4e2ab65dd1d1f438b01ec9a863d0bb
+      internalID: -1552598786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuvarKirmizi2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3b68a3d23cead459e65e2e55e15e47
+      internalID: -718439184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuvarKirmizi3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2296
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4086c8b8c27474c94af4ff2c97cab1
+      internalID: 1322641578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2113
+        width: 88
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f6596ee13027e4cabb67bae99799a2
+      internalID: -254465800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2080
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1564ce0c216340d44b3b09ee5c97f81f
+      internalID: 910508110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2048
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23937631050fde42b742af45562dfdf
+      internalID: 1483837434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2113
+        width: 88
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2719c8c3de9315045a79e58b8bca6342
+      internalID: 69193726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2080
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413bc989753559b4ba68062c109b55db
+      internalID: 952246125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2048
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67a2346ccd61b54b8247d3c16233bf8
+      internalID: 1567298392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2121
+        width: 88
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809e771efc53fb3478ed33d9c3366d81
+      internalID: -586212496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirisCati3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2080
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c5b5034c61fd47a4c0a1d77060cac
+      internalID: -400117437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirisCati4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2049
+        width: 95
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05596591ff9d0ec47a7bcfcc02f4cbd1
+      internalID: -1962550252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2121
+        width: 89
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16396b0cea2b5a14b8d2bacb7cc05832
+      internalID: 366921019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirisCati5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2080
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a23ba711c3f0c4fa839dcf27a613a7
+      internalID: 1826395751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirisCati6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2049
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8903a3e3fad81b44fa83088861940ef5
+      internalID: -1447026142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirisCati2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2080
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab69456248cc5c42923da3e59b72e85
+      internalID: 1595146032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gi
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1984
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0c32106c45dc8448d4433f24eb734d
+      internalID: 1698921474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balkon4
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2080
+        width: 97
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d295295c8219ca245a0c7338a1c952a4
+      internalID: -54562126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolon2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1896
+        width: 25
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf6ce41dd5e1a347a325eadbb56edf5
+      internalID: -1803836895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolon3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1898
+        width: 22
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaebbdf6c7ce43438fb0d7d167ae59d
+      internalID: 1362272385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolon5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1897
+        width: 16
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c204d5f73d543548ac2d54a44a95576
+      internalID: 1634711401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolon6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1898
+        width: 26
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d652c0f7068a74ba7e37c119902232
+      internalID: 1348010423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolon8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1898
+        width: 22
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b15999c9d7e1bf419e599328e09807e
+      internalID: 422826118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kolon9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1898
+        width: 16
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb16e9aa5a8ec3d40a0ec0979eca84b9
+      internalID: -1846402609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KolonUstu
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1872
+        width: 16
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43756e0c293df564e96f23223dd74de2
+      internalID: 382977907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KolonUstu2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1872
+        width: 16
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dda58ff1e103394ba9951c02c86696b
+      internalID: 1218434775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kolon12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1664
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e136cd00923b34887a23b7780d1b02
+      internalID: -1450229535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1696
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d90d2097bd2b841a4e7875e2f46f32
+      internalID: 2112148455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1664
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81107f5b6d20a4a4d98eab677c86ccc9
+      internalID: -487906232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1664
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c23fe52261ae04c92620aeeb53f9dd
+      internalID: 879568211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1600
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2df2190ecf45b4ea857e2ba8d828ec
+      internalID: 1496284023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1633
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eb43eb5f3ae9e4b99fee872be0aaf0
+      internalID: 839866017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1632
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea75333fb0295349bd69cc7254d675d
+      internalID: 1772065356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1631
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e0c281cc3b6dc4eb371c2e55cc5782
+      internalID: 958153472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1680
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa22308f55bb29c44a08f698dc03d7d6
+      internalID: -630812257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8b218005bb04f48bf68b4c74796ed0
+      internalID: -635788798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1673
+        width: 96
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f181ab7d6fa4114f877a74909e9cb34
+      internalID: -203658834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1344
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ab9f1861a6b654da2d7d89427b8e66
+      internalID: 128851076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1344
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba0a1f52372a6a4f8793f4bce8f7ab5
+      internalID: -2051019656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1344
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0febed23f5cf00d4fa0104d695e03a1b
+      internalID: -1345219259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1344
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6e48c98e5278c44af9787d064a1f82
+      internalID: -457242971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_23
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1344
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5d425355ba9244380606a98d2265b7
+      internalID: -918399844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_24
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1344
+        width: 69
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a9d6c958ea3d7429f5b0d588c9a0aa
+      internalID: 195960228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_25
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1343
+        width: 71
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c328e2817548b4c9fb661b9a577dce
+      internalID: -1304538252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1312
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c4e0b7488987b46a1b53a7c58197a6
+      internalID: 487112060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1312
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b6de19ebd993846a130d68413f847d
+      internalID: -145473796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc0f1cd304a74540a662ec2f08bb8c2
+      internalID: -809321140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1313
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31eb76fe4645e04aa5f8aecaae8e33f
+      internalID: 542073921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1313
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b0efb6aa23faf43a0ec98f2331a65b
+      internalID: -981378192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1313
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9679c104b2f70744db1c9398033d67d5
+      internalID: 503800879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1313
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5c8bc2cc3455241b85843197bdb106
+      internalID: -163632947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1313
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f33f5d204e1f424bb6667e8868c8b69
+      internalID: -940006388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1311
+        width: 96
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4452d3ba59cd804bb94ddc45d97f33f
+      internalID: -2012005129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1311
+        width: 96
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413143c279795fc4692b7b048ddbc22f
+      internalID: -643379787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1311
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef6b0cabe94912419b7b74688ed6abb
+      internalID: 1991915753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_42
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1248
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4930da35ccb29084eb7fae4ea22beda4
+      internalID: -2021054156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_43
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1048
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52fe9213acec75428f40b7fb86cb1d6
+      internalID: 1490615425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_44
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233ee1d92497038439724251ba0f6d54
+      internalID: -1551439532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_45
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1220
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e2ffc00a95447498893bfeef522d3c
+      internalID: -1196414710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_46
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1220
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1068214a38847974aa151a7ea50f9da8
+      internalID: 1054386230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_47
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1190
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca2d0b59d32db340ba87dfeb6e1b49a
+      internalID: 1279669109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_48
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1195
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34664bd24e22708438c277fece451557
+      internalID: 1268673080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_50
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1195
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfdff17b6440124791e1344ac592119
+      internalID: 241633426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_51
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1194
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a62879a60650f408a30792c2ce6679
+      internalID: -1868536630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1184
+        width: 95
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0558e48760e644391e39b0ef2ae2a0
+      internalID: 823704571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1184
+        width: 95
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4461fd6a3483bd742927702a30a7bb1c
+      internalID: -560891770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1184
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56697bfba9d45a48bf7fae22d707a64
+      internalID: 1992130622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1184
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3426c352b16b28e4c9ab2f0273cfadb1
+      internalID: 3159847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_181
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1184
+        width: 96
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f981a16e32e0d46b6f1842f7f7530c
+      internalID: -1334593032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_182
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1114
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7754c2b6ba9914c93dbcc9d44b4a54
+      internalID: -70420776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_183
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1118
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5955230dc5cd94a96812658039a44a
+      internalID: -1900519062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_184
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 992
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6a8e1ca0423cb4784661351b52f745
+      internalID: 1559546664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_185
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1036
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d874da98cfdfe43bfb489af9495641
+      internalID: 112032039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 973
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f99eb01c887a49b7eab91fd1c6e82
+      internalID: -1555299335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_187
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 973
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf0035952196e54f8ee302eee732463
+      internalID: -1617152569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_188
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 972
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1b7032652f1dc49a620ffdeb33e598
+      internalID: -1709214755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_189
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 972
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36745815f742815409833ad9d84220c6
+      internalID: -590483227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_190
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 972
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0364266b76bc5d64398c1d1e6187ec1a
+      internalID: -252774194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67fea7aca218c943b4f4a627e38a151
+      internalID: -1327736928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 929
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82c41ebcaf23514b86e0d945dfff2e5
+      internalID: -1860505750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_193
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 929
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d210cf2f2f71cbb419942fd08c899f6d
+      internalID: -634578210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_194
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 929
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de3eda302d657043b93b68bb2c7efb2
+      internalID: 898304787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 96
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ede0fbefb6b2f544bbbc55eee675e98
+      internalID: -1448782108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_196
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 736
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541b458eae9438499fd2181b22efa2d
+      internalID: 113997204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_197
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 775
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55a67b7ca72ee5459f49291690d1f1f
+      internalID: -1496997475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_198
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 773
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89f395484a224246b6db3a6fa9ba33e
+      internalID: 1880621387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_199
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 736
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa4e5989e94ad7448dcfc9e2eccadbf
+      internalID: -1635780278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_200
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 741
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bbed18d32cc1c49b823b6e3b151851
+      internalID: 1433232956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_201
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 770
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e1a0f46e4e6424c8d0c5ae92943a91
+      internalID: 1563129233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_202
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 736
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4792db954e5c44295e2b5595d9d314
+      internalID: -75464104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_203
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 775
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16dd9e201b40cc47978858c60c46f69
+      internalID: 1525736924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_204
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 737
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c928415ceb1951445afc495037bd1608
+      internalID: 2055714992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_205
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 773
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536f233f6d841244480cee48d7c5578a
+      internalID: 2029990478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_206
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 741
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbda6c6e3c2473f4a8406e2996bc93df
+      internalID: -121964633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_207
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 770
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eab038efb511e5458b9485606557b5d
+      internalID: -621279997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_208
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 737
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6f59f2f4240fa4fa4be362832e7f98
+      internalID: -716634513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_209
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 775
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a80cd99fe5a64f488ccb81663630ab8
+      internalID: 1860163510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_210
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 773
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c237680163868743a2b3c105e8fc4f2
+      internalID: 1713543006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_211
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 741
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e798e3bd22f38343a9c4f5c6d49e79d
+      internalID: -1012918171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_212
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 724
+        width: 96
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76553408a69fb6546b4d83de66a26259
+      internalID: 1360345161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_213
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 543
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8416e3b08e420ad4d93e81cfb55f6f01
+      internalID: -595821598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_214
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 544
+        width: 99
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25e1a79151ae4c40b403c921523e7ef
+      internalID: -228503116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_215
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b685a16c774ad41b42b43a638fe911
+      internalID: -334914933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_216
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 416
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5ba9b92b2bfb141937e12085113e48
+      internalID: -1650464662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_217
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aa38bc1cb451e4581789d55fd778e2
+      internalID: -369608965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_218
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 534
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e84c8ccc37bc9d44818bf37334492ef
+      internalID: -44594164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_219
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 471
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a61f8bf78366a044bea47bce467575b
+      internalID: -61996074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_220
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 415
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08640411e3df4754e9847cbe0cf9c654
+      internalID: 1600991768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_221
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 415
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1738836a428b87d469d131f67c962eba
+      internalID: -395426704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_222
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 384
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f9c7b3bf9fd614d907180df61d9132
+      internalID: 1565018773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_223
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 385
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74012f7f9013bc245a0796d232f61179
+      internalID: 1171570592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_224
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 384
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d229968493d544bc12c8db6085ea0
+      internalID: 327515673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_225
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 384
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eadf411af34fb643861d8e59b65525a
+      internalID: 1340797220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_226
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 384
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5120e638850583447bd81005e9ca95d1
+      internalID: -2104513660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_227
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 385
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51d9ae21dfce244a8eaec99363ffb71
+      internalID: -1991952790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_228
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 384
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec09f065b5e4aad4293d503a04b5c2be
+      internalID: -529923745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_229
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 384
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6673c0085d3dc6548b493262966acd85
+      internalID: -1061716430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_230
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 384
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce44be234a8edef47aedae2fa995b900
+      internalID: 619542857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_231
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 385
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637b5a581c48074dacc9e55a69d481d
+      internalID: 1350091867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_232
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 385
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b0a1cb43b321b4489a18cfafe691ce
+      internalID: -859684609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_233
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 385
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78da3475f2a19c146af3826247da0182
+      internalID: -2126106834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_234
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 334
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a3d270f9915743a5ab9859698f517
+      internalID: -1853607015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_235
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 311
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb134bb0f09cbc4482adb8e0fb6ca81
+      internalID: 1661573252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_236
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 309
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b277cc7c5ef6b64479f6118a4c678179
+      internalID: -960914411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_237
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 305
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d36ee34184786845a6ade9f56da2818
+      internalID: 1424581304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_238
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 312
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1975a95283a3e494db65b540a509f79d
+      internalID: 186875830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_239
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 310
+        width: 19
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b986f065ab3cc5f459bbea15beae4901
+      internalID: 138163919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_240
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 306
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c0de2d41c718b45a12f8eb15335d3a
+      internalID: -1706296888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_241
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 305
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483f7fd093c0d4b4c818840a1811d6c5
+      internalID: -1717447456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_242
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 311
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582c8ea52c27e7b41a9416dba94ddb56
+      internalID: -354711724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_243
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 305
+        width: 20
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe00d57dd147d3419e339a99d981eff
+      internalID: 321557639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_244
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 305
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2711e124ce8d84b94b0639e2aacb5f
+      internalID: -433579350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_245
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 232
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dd0094750f3c14893d08e444613036
+      internalID: 1518435240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_246
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 268
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6e4b2cc53eb294a923227ddd35daf0
+      internalID: -431811174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_247
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 268
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cd790ec53434c4eb2bf07811478ed2
+      internalID: 427164919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_248
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 264
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23fb7ecc55399c4988482228d9e4d11
+      internalID: 923166304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_249
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 263
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23caabb15575224ea6cf70f9e59a147
+      internalID: -35388910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_250
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 224
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a6753d732b72d4b9f5af343a72581c
+      internalID: -890567591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_251
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 223
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e0705b30733e47962871845e0c29e
+      internalID: -106118966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-accessories_252
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2272
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76be3c0a8b917f3409990a041127caef
+      internalID: 1564107098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DoluArch1: 683208585
+      victorian-accessories_92: -1249599429
+      victorian-accessories_167: 11531123
+      DisCepheSuslemesi4: 2070092353
+      victorian-accessories_38: -163632947
+      victorian-accessories_7: -1071516346
+      BosArch: -752503467
+      victorian-accessories_23: -457242971
+      kolon5: 1634711401
+      giris1: 2013861138
+      victorian-accessories_221: -61996074
+      GirisCati1: 1244073911
+      victorian-accessories_248: -431811174
+      victorian-accessories_161: -779700322
+      victorian-accessories_56: -560891770
+      victorian-accessories_219: -369608965
+      victorian-accessories_164: -373141328
+      victorian-accessories_131: 159498618
+      victorian-accessories_132: 1640063668
+      victorian-accessories_78: -1015370563
+      cardak3: 1137520623
+      Arch6: 300412261
+      victorian-accessories_176: -205230409
+      DuvarKirmizi3: 1322641578
+      cardak6: 1981280737
+      TemelveDuvar5: -643404214
+      victorian-accessories_170: -614948681
+      kolon6: 1348010423
+      GirisCati3: -400117437
+      victorian-accessories_46: -1196414710
+      victorian-accessories_27: -1694110463
+      victorian-accessories_44: 1490615425
+      victorian-accessories_70: 116589318
+      Temelliduvar4: -76857366
+      victorian-accessories_72: -1116325686
+      victorian-accessories_193: -1860505750
+      Arch5: -674581164
+      giris2: 773780075
+      victorian-accessories_107: -1153787992
+      victorian-accessories_163: 1932512065
+      duvar3: -16013816
+      victorian-accessories_139: -1218542647
+      victorian-accessories_35: 542073921
+      victorian-accessories_197: -1345472333
+      DisCepheSuslemesi5: -1069862454
+      victorian-accessories_102: 708261139
+      victorian-accessories_8: -586212496
+      victorian-accessories_147: 2088905894
+      UzunDuvar3: 1079524574
+      victorian-accessories_130: 1782690298
+      victorian-accessories_88: -1967983943
+      DuvarKirmizi: -1552598786
+      kolon: -304005917
+      victorian-accessories_12: 1496284023
+      giris4: -1424981092
+      victorian-accessories_112: -129545920
+      balkon: 625831979
+      victorian-accessories_16: -630812257
+      victorian-accessories_15: 958153472
+      GirisCati2: 1595146032
+      victorian-accessories_125: 1979765031
+      cardak1: -1099501925
+      DisCepheDemir: 787640261
+      victorian-accessories_186: 112032039
+      victorian-accessories_84: 1234221884
+      victorian-accessories_32: 487112060
+      victorian-accessories_55: 823704571
+      victorian-accessories_116: 1530367677
+      victorian-accessories_250: 923166304
+      victorian-accessories_21: -2051019656
+      victorian-accessories_91: 1678046336
+      victorian-accessories_187: -1555299335
+      victorian-accessories_2: 1483837434
+      victorian-accessories_34: -809321140
+      victorian-accessories_228: -2104513660
+      cardak4: 1219630025
+      GirisCati5: 1826395751
+      victorian-accessories_224: 1565018773
+      victorian-accessories_49: -849792433
+      victorian-accessories_209: -621279997
+      victorian-accessories_168: -2117649957
+      Temelliduvar2: 608558687
+      victorian-accessories_95: -2025403987
+      victorian-accessories_160: -1179819762
+      victorian-accessories_3: 69193726
+      victorian-accessories_109: 2037582228
+      KolonUstu2: 1218434775
+      balkon4: -54562126
+      victorian-accessories_183: -70420776
+      victorian-accessories_216: -228503116
+      victorian-accessories_239: 1424581304
+      kolon4: 478980159
+      victorian-accessories_201: -1635780278
+      victorian-accessories_245: 321557639
+      victorian-accessories_129: -850131580
+      victorian-accessories_200: 1880621387
+      victorian-accessories_67: -1156780763
+      iciDoluArch: -450263089
+      victorian-accessories_145: 1693032537
+      victorian-accessories_166: 2112825494
+      Temelliduvar5: -458473115
+      victorian-accessories_42: 1991915753
+      gir: 1896942216
+      victorian-accessories_144: -2050386467
+      DuvarKirmizi2: -718439184
+      victorian-accessories_213: -1012918171
+      victorian-accessories_243: -1717447456
+      victorian-accessories_75: -610017319
+      victorian-accessories_143: 965431570
+      victorian-accessories_96: -118161883
+      victorian-accessories_156: 1277321336
+      victorian-accessories_251: -35388910
+      victorian-accessories_22: -1345219259
+      TemelveDuvar4: -1164197265
+      victorian-accessories_177: -604469372
+      kolon7: 2052483859
+      victorian-accessories_52: -1077841816
+      victorian-accessories_54: -1868536630
+      UzunDuvar2: -192558110
+      kolon8: 422826118
+      kolon3: 1362272385
+      victorian-accessories_9: -487906232
+      TemelveDuvar: -1056078111
+      victorian-accessories_51: 241633426
+      victorian-accessories_240: 186875830
+      victorian-accessories_196: -1448782108
+      victorian-accessories_230: -529923745
+      victorian-accessories_114: 2101039386
+      victorian-accessories_89: -1939709762
+      victorian-accessories_64: 1434421416
+      victorian-accessories_87: 125238114
+      victorian-accessories_79: 1715591885
+      victorian-accessories_171: 505436885
+      victorian-accessories_205: 1525736924
+      victorian-accessories_105: 287031246
+      victorian-accessories_108: 1387152009
+      victorian-accessories_178: -472893151
+      victorian-accessories_10: 879568211
+      victorian-accessories_117: -1547120652
+      victorian-accessories_150: 1282907697
+      victorian-accessories_41: -643379787
+      KolonUstu: 382977907
+      victorian-accessories_47: 1054386230
+      victorian-accessories_220: -44594164
+      victorian-accessories_121: -866639500
+      kolon9: -1846402609
+      victorian-accessories_141: -1111395984
+      victorian-accessories_234: -859684609
+      victorian-accessories_66: 1310413071
+      victorian-accessories_80: 1599173779
+      Kolon12: -1450229535
+      victorian-accessories_134: -1599148325
+      victorian-accessories_175: 1043610591
+      victorian-accessories_233: 1350091867
+      victorian-accessories_151: -324270331
+      victorian-accessories_169: -748222109
+      victorian-accessories_5: 1567298392
+      victorian-accessories_232: 619542857
+      victorian-accessories_191: -252774194
+      victorian-accessories_238: -960914411
+      kolonAlti: 923364613
+      victorian-accessories_237: 1661573252
+      victorian-accessories_113: -1045111033
+      DoluArch2: 1043602812
+      victorian-accessories_101: 1043204319
+      victorian-accessories_24: -918399844
+      victorian-accessories_138: -927730640
+      victorian-accessories_110: 1208707743
+      victorian-accessories_18: -203658834
+      victorian-accessories_199: -1496997475
+      victorian-accessories_252: -890567591
+      victorian-accessories_31: -1250912573
+      victorian-accessories_20: 128851076
+      victorian-accessories_181: 3159847
+      victorian-accessories_6: 2112148455
+      victorian-accessories_115: -1650312338
+      giris3: -1879049118
+      victorian-accessories_62: 14494311
+      victorian-accessories_189: -1709214755
+      victorian-accessories_126: -1190515140
+      victorian-accessories_133: -1337661239
+      victorian-accessories_174: 681738555
+      victorian-accessories_136: 435290808
+      victorian-accessories_210: -716634513
+      DisCepheSuslemesi3: -1065296044
+      EvOnuCit2: 721344611
+      iciDoluArch2: 1997465899
+      victorian-accessories_82: -2022494587
+      victorian-accessories_118: -1854074548
+      victorian-accessories_40: -2012005129
+      victorian-accessories_247: 1518435240
+      victorian-accessories_182: -1334593032
+      victorian-accessories_93: 1221700600
+      victorian-accessories_45: -1551439532
+      victorian-accessories_30: -1474615697
+      victorian-accessories_159: -1941721218
+      victorian-accessories_208: -121964633
+      victorian-accessories_39: -940006388
+      victorian-accessories_203: 1563129233
+      victorian-accessories_69: -1751904465
+      victorian-accessories_122: -1337036908
+      victorian-accessories_90: -82146353
+      victorian-accessories_137: 166112392
+      victorian-accessories_173: -652133928
+      victorian-accessories_98: -1488710880
+      victorian-accessories_99: 2075091096
+      victorian-accessories_74: -844890622
+      balkon3: -778109479
+      victorian-accessories_59: -530477692
+      giri: 693692805
+      victorian-accessories_111: -1266368395
+      victorian-accessories_1: 910508110
+      victorian-accessories_29: 1271874746
+      victorian-accessories_85: -269441943
+      victorian-accessories_61: -174009734
+      victorian-accessories_48: 1279669109
+      victorian-accessories_218: -1650464662
+      TemelveDuvar2: -366550172
+      UzunDuvar1: -20721183
+      victorian-accessories_202: 1433232956
+      victorian-accessories_227: 1340797220
+      victorian-accessories_97: 1666479414
+      victorian-accessories_63: 122530451
+      victorian-accessories_94: 1809679492
+      victorian-accessories_185: 1559546664
+      victorian-accessories_214: 1360345161
+      victorian-accessories_17: -635788798
+      victorian-accessories_222: 1600991768
+      victorian-accessories_71: 1286132945
+      victorian-accessories_123: 546601159
+      EvOnuCit1: 1710696305
+      victorian-accessories_103: 273268484
+      victorian-accessories_33: -145473796
+      victorian-accessories_43: -2021054156
+      BosArch2: -64229525
+      victorian-accessories_65: 1267898117
+      victorian-accessories_76: 763576755
+      victorian-accessories_162: 1259858447
+      victorian-accessories_236: -1853607015
+      victorian-accessories_142: 790772439
+      giris: 40972407
+      victorian-accessories_124: -2019395821
+      victorian-accessories_120: -919223434
+      victorian-accessories_235: -2126106834
+      victorian-accessories_204: -75464104
+      victorian-accessories_192: -1327736928
+      victorian-accessories_25: 195960228
+      victorian-accessories_229: -1991952790
+      victorian-accessories_179: 2122545718
+      victorian-accessories_223: -395426704
+      Temelliduvar1: 1121668304
+      victorian-accessories_195: 898304787
+      victorian-accessories_172: 1698536586
+      victorian-accessories_146: -1853181468
+      victorian-accessories_36: -981378192
+      gi: 1698921474
+      victorian-accessories_226: 327515673
+      victorian-accessories_50: 1268673080
+      TemelveDuvar1: 1573009196
+      victorian-accessories_11: 366921019
+      victorian-accessories_207: 2029990478
+      GirisCati6: -1447026142
+      DisCepheSuslemesi2: 500684529
+      victorian-accessories_37: 503800879
+      victorian-accessories_77: -1012319209
+      victorian-accessories_140: 435085795
+      victorian-accessories_119: 27301902
+      victorian-accessories_188: -1617152569
+      victorian-accessories_231: -1061716430
+      victorian-accessories_157: 1018687829
+      GirisCati4: -1962550252
+      victorian-accessories_148: -539347993
+      kolon2: -1803836895
+      victorian-accessories_190: -590483227
+      victorian-accessories_4: 952246125
+      victorian-accessories_127: 500786109
+      DisCepheSuslemesi: -1880907340
+      victorian-accessories_149: -712444103
+      victorian-accessories_86: 459853615
+      victorian-accessories_0: -254465800
+      DisCepheSuslemesi6: -1676355914
+      victorian-accessories_14: 1772065356
+      victorian-accessories_152: 1512694832
+      victorian-accessories_57: 1498059047
+      victorian-accessories_106: 1290041825
+      victorian-accessories_68: -474989831
+      victorian-accessories_184: -1900519062
+      cardak5: 173964185
+      victorian-accessories_212: 1713543006
+      victorian-accessories_158: -326043876
+      victorian-accessories_249: 427164919
+      victorian-accessories_135: 1035478751
+      victorian-accessories_155: -1450961963
+      victorian-accessories_241: 138163919
+      victorian-accessories_244: -354711724
+      victorian-accessories_100: -575892553
+      balkon2: -1371553975
+      victorian-accessories_211: 1860163510
+      victorian-accessories_58: 1992130622
+      victorian-accessories_242: -1706296888
+      victorian-accessories_246: -433579350
+      victorian-accessories_13: 839866017
+      Temelliduvar6: -298879831
+      victorian-accessories_206: 2055714992
+      victorian-accessories_165: 418242077
+      victorian-accessories_73: -1664962330
+      victorian-accessories_215: -595821598
+      victorian-accessories_28: 863166606
+      victorian-accessories_194: -634578210
+      cardak2: 1333732557
+      victorian-accessories_53: 1377229365
+      victorian-accessories_81: 361845996
+      victorian-accessories_19: 1272237927
+      victorian-accessories_104: 1665432765
+      victorian-accessories_60: -1966445588
+      victorian-accessories_180: 1969633293
+      victorian-accessories_217: -334914933
+      victorian-accessories_198: 113997204
+      victorian-accessories_26: -1304538252
+      victorian-accessories_128: -1566868136
+      victorian-accessories_153: -2115887545
+      victorian-accessories_225: 1171570592
+      TemelveDuvar6: -1752564305
+      Temelliduvar3: -349543293
+      victorian-accessories_154: -199539683
+      victorian-accessories_83: -1287123840
+      balkon1: 505002256
+      KisaDuvar1: -136324939
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
