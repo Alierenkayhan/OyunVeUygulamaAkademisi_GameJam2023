@@ -1,0 +1,3995 @@
+fileFormatVersion: 2
+guid: 8f1fac52274b1c04b8de65d3459662d7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: victorian-streets_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2815
+        width: 274
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995cac6722b73ae45a1f6282f1623752
+      internalID: -1430364775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3047
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87ebce58a3a75f46b331c16c1ae4c94
+      internalID: -1356570855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2911
+        width: 188
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73a9ee9a72462e47b92906ec929d3b6
+      internalID: -1556748657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3016
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20654ea83c8dee74097000e6083314bb
+      internalID: -323118831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2803
+        width: 130
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cc65a7439f64944a77dd79ff569eb7
+      internalID: 578368296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2911
+        width: 28
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c739d2fa9ad5b4b8c7eaef56832fab
+      internalID: -160836347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2911
+        width: 30
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8317853437795347894a26a56250830
+      internalID: -314358909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2983
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d640afc2906740b4cb8210e37cadebfe
+      internalID: -869194677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2951
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abd3e4b3907b5941913d3c3fb329903
+      internalID: -707065795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2830
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b8fe412e824e048a274b3d7740a86e
+      internalID: 1014569782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2827
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1b754e7752a3c4fa4fc3c43182783c
+      internalID: -196011727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2753
+        width: 67
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b01508d81db9634ea2e3f85f8c2674d
+      internalID: -764160863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2806
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e99bbdcbdbcc43bbc3fbd38c2c7da
+      internalID: -2078737124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2756
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c61d8a6be56a44097c9286dbe9704b
+      internalID: 1426602663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_14
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2696
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbd9f0fc108c584a82ef99a0eb508dd
+      internalID: -2111854902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2771
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31d2a854a0a3bd4baeefe218948de82
+      internalID: 1682628504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2750
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ab2c27a7579db4eba85564f9657ad9
+      internalID: -147147437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2686
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129cb3fe69e4a604da7408e2bdd9f397
+      internalID: 1932737265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2722
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e2345ad12fa6244822f348cee745bd
+      internalID: -1452023265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2686
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376fad528c8583440a28d9c1dcd42c58
+      internalID: 875337434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2692
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf515178abaecc459a254d4402133d3
+      internalID: 553757071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2689
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369f8d88c88b49948950cc72cc21fad9
+      internalID: 560754407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2687
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bee64570a671be458403a24e927d219
+      internalID: 1010920234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_23
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2698
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78981ac5e63a9041980ef422b58446c
+      internalID: -1360380213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2659
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a56171562246ff43809d37988b2159a
+      internalID: 2050178657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2659
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f087ff495047ad4489dc3b3ed95aa7c3
+      internalID: -547285629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2657
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf075cbebea99a4597f5a60c85c5d79
+      internalID: -1249419239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2659
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8cfb2db77b1e348a95c4530f4026de
+      internalID: -869355616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2660
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4995c848b652214792ad33fad77db56
+      internalID: 2122851858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2659
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27859e973f50ae84ca7838b322b937c4
+      internalID: -2002501993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2657
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd60948a06c7cb4e90ad9c7ed0dca8a
+      internalID: 234654730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2639
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d9c96361f2379459643f5a731c6fec
+      internalID: -1468760352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2639
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79c8b2ac143f0d4eb11610139266453
+      internalID: -1397927648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2630
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc25623d2cb32124691e580cef4b4d2a
+      internalID: 460150446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2629
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc870e7557489e644bc60ada53712448
+      internalID: 1429837133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2627
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada095f8a393c664bbb302439cf23fbb
+      internalID: 1373163102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2629
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deed8b3d1454994187fe4026d411f2c
+      internalID: -1628576077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2635
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bded50b716be96344a2b33fc79c46773
+      internalID: 859381709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2626
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3a9705d09af274f97fd5ff374951c2
+      internalID: -1634593257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2632
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b818b0a46753b4ca5216c12061e92b
+      internalID: 1628525485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2527
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434bcc0a5c4b3e349b739c5b1266c2d0
+      internalID: 1073927141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2527
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39daa243a9048449874ca67dfdb36ff
+      internalID: 136921081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2531
+        width: 131
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2be70332cf4c92458d94b507cce627e
+      internalID: -1666690107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_43
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2575
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59695fa2a6cf309468350c0dbffbeb6d
+      internalID: -1830193250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_44
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2558
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2967c1ea9cb84442b04644bf715e252
+      internalID: -1636114861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_45
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2558
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c651b700131b40d4bad1cfeb8b78184b
+      internalID: -176460190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2368
+        width: 403
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5151d0a85ba84a6478cf1d674d86b96f
+      internalID: -1321260445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2494
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a2dc59654f484a889c2512cd7a39d
+      internalID: -961097331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2494
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf007625378114418a5e12e9600db36
+      internalID: 1010007267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_49
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2494
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e37eaf1c2a68d4a8287ce6470c1f6a
+      internalID: -928465418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2494
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae33d5a6293936c4a964c5761088aadb
+      internalID: 987026979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_51
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2494
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1321a5a8cb94d4ab42ba8bf65f6590
+      internalID: -145918732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_52
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2494
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1640c012d97cf414eb52fa0634188985
+      internalID: -1501317771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2494
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3e9f5cfa821dd4f802210724b92511
+      internalID: 800575734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2494
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b820e865ea62f4b47ae85808bd490e7c
+      internalID: 2003776217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_55
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2495
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c515958b6a74bce4bb7ed3e90f4eb61d
+      internalID: 1780101269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_56
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2495
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319d008eaca00f647bb6cc4b2710617b
+      internalID: 1704925860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_57
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2495
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57d437c0cd2b61449a86bf09b014638
+      internalID: 491960863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_58
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2495
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7064b1a14855b9249b7ae1177833dfc7
+      internalID: 119028325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_59
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2449
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d0e690b85c92c45ab9085595341472
+      internalID: 1356098932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2455
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a8de64dc33f24fbcc903380af119c
+      internalID: 2020220896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_61
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2455
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277311132b8683d41a4442c55960270b
+      internalID: 1646594416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2455
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46400331a2fc59b48a53c6576317b7ee
+      internalID: -1089938432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2366
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d62229e64cba046be7197cf25ee57e
+      internalID: 201348452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_64
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2366
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0b0d528793ef44fa36fbba1286f39c
+      internalID: 1722911243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_65
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2366
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0482af08bc9f8b44a7134d5b30853b3
+      internalID: -972393589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_66
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2366
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3a5e059e69f6a4c861fec602aaa290
+      internalID: 925271357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_67
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2392
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccebcbd94e693c048843d996def210bf
+      internalID: -840278915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_68
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2392
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318d54b340562af46b0ffe91542d6dc5
+      internalID: -1839721304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2392
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acef797bb6430643b705c2bfe51caff
+      internalID: 1242760635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2215
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36362c56de5b9434f84269f0f3dcac72
+      internalID: -641039946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2216
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1b58a1fae4d58448ede23447dd0702
+      internalID: 1623256436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_72
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2213
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d1c6d34c124c24a854bb02d5c6ed17
+      internalID: 399456985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2146
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d770a1074fce0e42a49578bc6c92559
+      internalID: -392260903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_74
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2198
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6de6b6ce424ce64a947bf93f244f754
+      internalID: 1320606719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2189
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cc652fe2095f747852156e88530656
+      internalID: 1276528638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_76
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2192
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d7c3f737d3b3846910caddf6ec1741
+      internalID: 1177783389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2143
+        width: 130
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9563c9db60b4e1040aede5651a283b5f
+      internalID: -779421318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2143
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a02fd6f62682ac43929dc4c94b4ce33
+      internalID: 1772400673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2143
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6425c4a52cf97d4e8bfeff4a513f0a7
+      internalID: -948187494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_80
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2146
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2743530f81374840a8d95c85fda0d48
+      internalID: 293595097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2143
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17353f5749674b4d962986ace20823c
+      internalID: 1967040102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_82
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2146
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a03b16c9f75edb48b920632200acbf9
+      internalID: 1056853439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_83
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2144
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638fddefd2cb2f4428cf8dc658d8798c
+      internalID: -1592544524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_84
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2143
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22c4904e8507b94ca25e32d313602f0
+      internalID: -263676174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_85
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2143
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ce028c12fad5e4faf503498891e74a
+      internalID: -397204078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_86
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2078
+        width: 12
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04558ba503bc2984b903b14116b43369
+      internalID: 208493006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_87
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2110
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730c950a9bb4db7488092ecb56797cf7
+      internalID: 1424483007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_88
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2078
+        width: 9
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cbad4d56920884cb6f2bb8d742a476
+      internalID: -264417430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_89
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2110
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a747344d9ace7643b87d82ca8af66e0
+      internalID: -554050108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_90
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2080
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632ad8ae4a94e22408382bc1cc725d43
+      internalID: 295894886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_91
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2111
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10807e89a7a6aff48915e409fbedcfea
+      internalID: 111849544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_92
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2078
+        width: 14
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015cbf8e88ad5984e83a7c7427fbb90b
+      internalID: 1218995724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_93
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2110
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdc76c04687ee548a8d67ba804d2a4e
+      internalID: 1770935738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1951
+        width: 101
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f0faefd8023e4e92eca5e29ed7e8d
+      internalID: -1452929496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_95
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2078
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3711272ba76f3c940a5353b329789b2b
+      internalID: -1053986233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_96
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2078
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8a788580ee9f459ddb257494bf905
+      internalID: 58364235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_97
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2080
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b493e3a3880cc43866b7145e9f977a
+      internalID: 253549967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_98
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2078
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11971ba85a08985469358988f8efa5c6
+      internalID: 821431097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_99
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1951
+        width: 107
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241934baace2b0449407a6e86a066e0
+      internalID: 2046832491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_100
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1951
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c60186098f42cb48b50e94988547e84
+      internalID: 1164571486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_101
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1951
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c069d2faaeca6fd41aa0e67b5c2a4ea4
+      internalID: -1170785898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_102
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1982
+        width: 7
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a29a048ae4e74aa23d876e8079086
+      internalID: 568740216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1886
+        width: 257
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be613b1e1aace245981c8c2c9b4f689
+      internalID: 1748637627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_104
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1886
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f30168799e1334d9d3a695766b21a9
+      internalID: -659364314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_105
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1918
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4689514ac07b646b8bbfb0ea086b0e
+      internalID: 1604953549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_106
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1886
+        width: 166
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1535278b9fbe141906f90ac2ab01e3
+      internalID: 1930888318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1790
+        width: 361
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01155ba8d99e1e42a9d80d20872e091
+      internalID: -2088356060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_108
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1790
+        width: 137
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18d6a9bf495ad74894da02111c7dbfd
+      internalID: -1116405633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_109
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1694
+        width: 13
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e646d87549b6f404ab5eca437f8ff517
+      internalID: 811306455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_110
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1726
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcabf966ab67f448a18a0035786cb5c
+      internalID: -1859320321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_111
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1694
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8733b521413eae94d9eb550153c630f6
+      internalID: -428091464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_112
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1726
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514105e403cd0c24996029bdb6e39751
+      internalID: -615430705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_113
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1694
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b32b46d50975e4459b10177e417a5c6
+      internalID: 1761440317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_114
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1726
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc64f9a3b9c7fa640b026dc1b6e9df56
+      internalID: 1453578243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1567
+        width: 103
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a40bea0159290148b0b383cb6e6d0b3
+      internalID: 1480033380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_116
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1694
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb01d168aa0a446906a292dec314d6
+      internalID: -484168116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_117
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1694
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4102746b06d2f444e98a83d068f237df
+      internalID: 677654660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_118
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1694
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894150b78f980744e8df642c9b4090e9
+      internalID: -1707491377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_119
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1598
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8be48e5ce211b0478fcf46203b4ae0c
+      internalID: -320496403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_120
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1598
+        width: 6
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63600f6901b983f45806ddb864a133eb
+      internalID: 1775897073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_121
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1567
+        width: 105
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b173470ec5a4a409a0d65264817bdd
+      internalID: -243480904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_122
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1598
+        width: 8
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86850fb11bd7a784895f83c1d550dc59
+      internalID: -741037756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1502
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306b18df430024841bed0d71c0f19eaa
+      internalID: -1296995198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_124
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1540
+        width: 75
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d368378d6e286f4b921ebbcbdf57695
+      internalID: -1890273721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_125
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 643
+        width: 100
+        height: 927
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041c4e19a1f495b418424c1ee658fccd
+      internalID: 1684318745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_126
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1502
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e789e2b0654b9c4f84bf460555c31cf
+      internalID: 754570255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_127
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1502
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2a0426b6519484abf8349b0bad8b7a
+      internalID: -191543009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_128
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1375
+        width: 26
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747b2392dd8c65b489d8ceb78dddf6aa
+      internalID: -336913338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_129
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1507
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569fb510ef49c1f41a32bebcdbb817ee
+      internalID: 521935351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_130
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1502
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29e8de4c072120438d19fb0c5d5d0d4
+      internalID: -1567780339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_131
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1502
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37a8df5b02df7f4bb05883ca5e6388c
+      internalID: -622265200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1406
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8442f4a9a52eff48931ebfd2e86ff60
+      internalID: -629103063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_133
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1411
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247988c3fc3868a448216e09dc5b633f
+      internalID: -2067006500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_134
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1406
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e581e504414ce469121b2011704e7e
+      internalID: 1816648300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_135
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1406
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678eb8265a536d0439cd755e05a9a754
+      internalID: -805026996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1214
+        width: 89
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848e598502080904e82ffcc55869e2cf
+      internalID: 2038192043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_137
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1379
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a085e869f1ccbb64fad0ceea6e837a26
+      internalID: -1507133896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_138
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1379
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d328254e3fbfcf8419ff5d8592bf1901
+      internalID: -1711249410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_139
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1216
+        width: 78
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cd9f0593509e846ae92bd77cf39188
+      internalID: -133425970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_140
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1216
+        width: 82
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5966015bd9af94044ac7d009629ed37c
+      internalID: -1170148226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_141
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1214
+        width: 85
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a425f8fece984eb85f68f71cd716d
+      internalID: 1089714248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4300b1802af812244a8da710255248d6
+      internalID: -1081295952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_143
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1192
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197f16f962945f84681fe24456bcf94f
+      internalID: -528294016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_144
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1087
+        width: 32
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7439a2e5811fc7459c092ceff45adeb
+      internalID: 1422246928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_145
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1159
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722804070fafc8d4880fef4989ab6d61
+      internalID: -1062294717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_146
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1150
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb912570695904f4ca6eb11023f9cebf
+      internalID: -1259230373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_147
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1150
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ef9d0171d84fb49abc93dfae78f777
+      internalID: -19604936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1054
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b573c414e8c2d41a66d8aa06be01b0
+      internalID: -1873116197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_149
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1063
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558a88585f0428f40a10fa42dd10ac4f
+      internalID: 241176377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_150
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1054
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b75524774399ba49955c605ed7cd4f8
+      internalID: 726083054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_151
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 991
+        width: 94
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abea536a34b5d349b94b69c1f5feaff
+      internalID: -1651277922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_152
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 991
+        width: 94
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15742f6c989b8014f8d6e885274db7e7
+      internalID: 990302461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_153
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 643
+        width: 220
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecddc1e9334c414bbb8eb3598b6540e
+      internalID: 595585659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 95
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fa0a782a6846c4c8e5c162c3363acd
+      internalID: 1576545329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_155
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 802
+        width: 94
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790e62f2e47da9e479feadf5b967cdc5
+      internalID: -1701416155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766
+        width: 95
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a99a87a46e6c44a8c1ea0f40f66409
+      internalID: 1199190572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_157
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 766
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eb606349a9c414a86b3aa9039096b8
+      internalID: 1365424526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 94
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9f5cc2dfbcfc24aaf29f6c5c899361
+      internalID: 573315691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_159
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 643
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f973db4cc975888468f14350f17fd608
+      internalID: 1903862942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_160
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 638
+        width: 100
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e734a6e8d2db137428fa64459fdf0ac7
+      internalID: -1596731376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_161
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 580
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c6ca0034ec42a48b4f8ab5d5abe21e
+      internalID: -258957740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_162
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 607
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1181632e8d7c963409bdd04ab3ba941a
+      internalID: 1221776166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_163
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 607
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a4616c832055d4ba25ced72e382d06
+      internalID: 1924088601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_164
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 607
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e465fc7e40ae2428daa48c0878fb6e
+      internalID: 1136336561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_165
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 607
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ce698a60bd6d841a42b85eebb10289
+      internalID: -1284978668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_166
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 607
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4526700e9736e64ca69e7bd11ab987a
+      internalID: 539860497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_167
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 607
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff47e2c3fe324c4e83a3deea880b3e0
+      internalID: 2114850196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_168
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 607
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4bcd74cb58ccc4ebd1f9e5df89e4db
+      internalID: -1939567738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_169
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 583
+        width: 79
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb0c7bf71612ef40b36ea5d58f549a6
+      internalID: 1279030274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 512
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196f91e831ff9474b80ce0de5c318b66
+      internalID: -273164388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_171
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 159
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f16c3abf175d24bb3b13e0ec8ba1a4
+      internalID: 1948367292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_172
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 101
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed02a31bf56a53e47af5c04687937345
+      internalID: -1968760958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f1f019db0ed624a87fadae3b6af361
+      internalID: -1972693147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_174
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 124
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75d748785b8bcd4db838a97f5a99e9e
+      internalID: 1097381685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-streets_175
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 61
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bc4c279bc7b8b438858fa00f89ec68
+      internalID: 789651139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      victorian-streets_21: 560754407
+      victorian-streets_59: 1356098932
+      victorian-streets_51: -145918732
+      victorian-streets_49: -928465418
+      victorian-streets_22: 1010920234
+      victorian-streets_149: 241176377
+      victorian-streets_24: 2050178657
+      victorian-streets_134: 1816648300
+      victorian-streets_6: -314358909
+      victorian-streets_77: -779421318
+      victorian-streets_70: -641039946
+      victorian-streets_56: 1704925860
+      victorian-streets_140: -1170148226
+      victorian-streets_104: -659364314
+      victorian-streets_137: -1507133896
+      victorian-streets_170: -273164388
+      victorian-streets_17: 1932737265
+      victorian-streets_28: 2122851858
+      victorian-streets_159: 1903862942
+      victorian-streets_14: -2111854902
+      victorian-streets_62: -1089938432
+      victorian-streets_168: -1939567738
+      victorian-streets_118: -1707491377
+      victorian-streets_164: 1136336561
+      victorian-streets_65: -972393589
+      victorian-streets_69: 1242760635
+      victorian-streets_1: -1356570855
+      victorian-streets_109: 811306455
+      victorian-streets_125: 1684318745
+      victorian-streets_91: 111849544
+      victorian-streets_169: 1279030274
+      victorian-streets_94: -1452929496
+      victorian-streets_136: 2038192043
+      victorian-streets_87: 1424483007
+      victorian-streets_114: 1453578243
+      victorian-streets_139: -133425970
+      victorian-streets_102: 568740216
+      victorian-streets_100: 1164571486
+      victorian-streets_106: 1930888318
+      victorian-streets_119: -320496403
+      victorian-streets_67: -840278915
+      victorian-streets_11: -764160863
+      victorian-streets_160: -1596731376
+      victorian-streets_142: -1081295952
+      victorian-streets_75: 1276528638
+      victorian-streets_82: 1056853439
+      victorian-streets_84: -263676174
+      victorian-streets_103: 1748637627
+      victorian-streets_7: -869194677
+      victorian-streets_55: 1780101269
+      victorian-streets_143: -528294016
+      victorian-streets_9: 1014569782
+      victorian-streets_79: -948187494
+      victorian-streets_48: 1010007267
+      victorian-streets_36: -1628576077
+      victorian-streets_53: 800575734
+      victorian-streets_60: 2020220896
+      victorian-streets_19: 875337434
+      victorian-streets_5: -160836347
+      victorian-streets_71: 1623256436
+      victorian-streets_152: 990302461
+      victorian-streets_42: -1666690107
+      victorian-streets_111: -428091464
+      victorian-streets_72: 399456985
+      victorian-streets_144: 1422246928
+      victorian-streets_151: -1651277922
+      victorian-streets_57: 491960863
+      victorian-streets_10: -196011727
+      victorian-streets_157: 1365424526
+      victorian-streets_47: -961097331
+      victorian-streets_26: -1249419239
+      victorian-streets_3: -323118831
+      victorian-streets_43: -1830193250
+      victorian-streets_138: -1711249410
+      victorian-streets_4: 578368296
+      victorian-streets_145: -1062294717
+      victorian-streets_27: -869355616
+      victorian-streets_34: 1429837133
+      victorian-streets_150: 726083054
+      victorian-streets_155: -1701416155
+      victorian-streets_38: -1634593257
+      victorian-streets_113: 1761440317
+      victorian-streets_162: 1221776166
+      victorian-streets_105: 1604953549
+      victorian-streets_120: 1775897073
+      victorian-streets_52: -1501317771
+      victorian-streets_121: -243480904
+      victorian-streets_173: -1972693147
+      victorian-streets_122: -741037756
+      victorian-streets_2: -1556748657
+      victorian-streets_107: -2088356060
+      victorian-streets_89: -554050108
+      victorian-streets_133: -2067006500
+      victorian-streets_18: -1452023265
+      victorian-streets_20: 553757071
+      victorian-streets_61: 1646594416
+      victorian-streets_117: 677654660
+      victorian-streets_12: -2078737124
+      victorian-streets_13: 1426602663
+      victorian-streets_37: 859381709
+      victorian-streets_23: -1360380213
+      victorian-streets_40: 1073927141
+      victorian-streets_174: 1097381685
+      victorian-streets_25: -547285629
+      victorian-streets_172: -1968760958
+      victorian-streets_33: 460150446
+      victorian-streets_92: 1218995724
+      victorian-streets_15: 1682628504
+      victorian-streets_130: -1567780339
+      victorian-streets_131: -622265200
+      victorian-streets_146: -1259230373
+      victorian-streets_54: 2003776217
+      victorian-streets_135: -805026996
+      victorian-streets_0: -1430364775
+      victorian-streets_46: -1321260445
+      victorian-streets_101: -1170785898
+      victorian-streets_41: 136921081
+      victorian-streets_129: 521935351
+      victorian-streets_32: -1397927648
+      victorian-streets_31: -1468760352
+      victorian-streets_30: 234654730
+      victorian-streets_64: 1722911243
+      victorian-streets_108: -1116405633
+      victorian-streets_78: 1772400673
+      victorian-streets_156: 1199190572
+      victorian-streets_83: -1592544524
+      victorian-streets_128: -336913338
+      victorian-streets_167: 2114850196
+      victorian-streets_110: -1859320321
+      victorian-streets_8: -707065795
+      victorian-streets_45: -176460190
+      victorian-streets_97: 253549967
+      victorian-streets_166: 539860497
+      victorian-streets_39: 1628525485
+      victorian-streets_153: 595585659
+      victorian-streets_141: 1089714248
+      victorian-streets_124: -1890273721
+      victorian-streets_95: -1053986233
+      victorian-streets_29: -2002501993
+      victorian-streets_80: 293595097
+      victorian-streets_85: -397204078
+      victorian-streets_123: -1296995198
+      victorian-streets_112: -615430705
+      victorian-streets_158: 573315691
+      victorian-streets_88: -264417430
+      victorian-streets_74: 1320606719
+      victorian-streets_126: 754570255
+      victorian-streets_116: -484168116
+      victorian-streets_76: 1177783389
+      victorian-streets_165: -1284978668
+      victorian-streets_161: -258957740
+      victorian-streets_93: 1770935738
+      victorian-streets_127: -191543009
+      victorian-streets_154: 1576545329
+      victorian-streets_132: -629103063
+      victorian-streets_175: 789651139
+      victorian-streets_96: 58364235
+      victorian-streets_90: 295894886
+      victorian-streets_98: 821431097
+      victorian-streets_63: 201348452
+      victorian-streets_73: -392260903
+      victorian-streets_81: 1967040102
+      victorian-streets_35: 1373163102
+      victorian-streets_147: -19604936
+      victorian-streets_115: 1480033380
+      victorian-streets_148: -1873116197
+      victorian-streets_68: -1839721304
+      victorian-streets_16: -147147437
+      victorian-streets_44: -1636114861
+      victorian-streets_58: 119028325
+      victorian-streets_66: 925271357
+      victorian-streets_86: 208493006
+      victorian-streets_99: 2046832491
+      victorian-streets_163: 1924088601
+      victorian-streets_50: 987026979
+      victorian-streets_171: 1948367292
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

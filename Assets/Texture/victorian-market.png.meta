@@ -1,0 +1,3863 @@
+fileFormatVersion: 2
+guid: a69635f9150b6cc4a9915409fde1c50d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: victorian-market_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2238
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee77c75f45ad92840955143671d3f9ee
+      internalID: -1973421227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2497
+        width: 129
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901bf79a626700b45985a4bedb56ac27
+      internalID: 2111188871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2200
+        width: 22
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac2cff1b907dcf4f8e914a966021440
+      internalID: 1521030876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2367
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9dad8752d2c044ca3433fcd948697a
+      internalID: 810482120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2143
+        width: 317
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec53d79220be15e46ab8080e7f92b1c2
+      internalID: 45384365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2367
+        width: 67
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e00f08844e7984aa9248167484fc38
+      internalID: -1109422318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2239
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345dd16f99aa9944e9008ec3f4e4353f
+      internalID: -783775785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2239
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd32aa4ccffa548a4ddea40327f234
+      internalID: 358036344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2081
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88320b2a210d5b44681c53f66ddf78ce
+      internalID: -207124366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2143
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545c4c4a66791e04887db1ff6cf441fa
+      internalID: 1414040529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2099
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f1224af1d28d54c89f1e68f4922ab7
+      internalID: 563822995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2079
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438085b5d3b1d174596e5c9cd21e5a9d
+      internalID: -176255555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_12
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2099
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20939dc4a30cb93409f65dfc8d96b7fe
+      internalID: 756826536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_13
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2074
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e1fabdd8391734aa72b24fbdabe4c6
+      internalID: -1155811724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2014
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbbda72ac5122840ba3e20324f44459
+      internalID: -1994745294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2149
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435fc9d55ec5c9849a0a9b19522ba297
+      internalID: 733627953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2052
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fb2b7e2945e234bab171114215328d
+      internalID: -1567003506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1954
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3771e171f7cb445923562d14bf7c3b
+      internalID: -514138425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_18
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2016
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f789f44980d736c408d2652ea2e4308c
+      internalID: 1326748953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_19
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2052
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23cd699c59e1b841977e63cf2cf2fa4
+      internalID: -1525635665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_20
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2014
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e66d89a6d26484486999fb90801ff3
+      internalID: -953445188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2014
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f23b67e6df62a84985dfafa13a1b9a5
+      internalID: -1655854601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2014
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd66997da046d404f8163845e65cef4c
+      internalID: -1567101866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2014
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2540dd28e7a7cc54a8b8c4c5fb077192
+      internalID: 782023625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_24
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1963
+        width: 29
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240acaa1ad4f6eb4087e622db602288b
+      internalID: -1265390741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2014
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fa0b4e3945ca54f8a5436a590c29d2
+      internalID: -980486810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2014
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80528df9f4f47c342975d432962eb161
+      internalID: -1753877444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1934
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb4c93edf3e5d54a9d25b44986acc25
+      internalID: 630283595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1937
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c7d11860dc73c49a3d8bfef8d79954
+      internalID: -784982644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_29
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1951
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5445b095ce7412d47be57508dabc01dd
+      internalID: 1313472139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1758
+        width: 129
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ef331efbc3b3a4aa24e308070d2cbd
+      internalID: -748554612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1854
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff3f9222ba157c4fbdf3f7bb6a6f9c6
+      internalID: -910476037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1854
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f38102d37ffaf84f84720d2bda7f3bf
+      internalID: -474297841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1854
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1b337411500ab4aad877483f8b95ef
+      internalID: -333245525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_34
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1781
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43110e87f11bc224eac7bab765d4ca2e
+      internalID: -1156614197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1662
+        width: 129
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da9bdabb260f5b48898bf3eb3c7567e
+      internalID: 156053168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1758
+        width: 228
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d58dbb9e1d1be84bb9a60bd79dd5d44
+      internalID: 336002088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1684
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d97c93d01fb9834f817febcf8379bfe
+      internalID: -1077483060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1567
+        width: 129
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd86e48268f3811489f2194d195736cd
+      internalID: -973690204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1663
+        width: 228
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e186e87999becd5419fd624488f79ca0
+      internalID: 1245886482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1588
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdd2eac0f7d8d94483da5e750a2c81d
+      internalID: 2094142315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1471
+        width: 129
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c3af4c642e00f429008432f38eab99
+      internalID: 1056637540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_42
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1567
+        width: 228
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98990f33d831ba248a3ae2a8797f2f85
+      internalID: -100204313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1492
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d94b0fdf7df3b4a84261ecd5868b5d
+      internalID: -1828193929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1374
+        width: 129
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e1dd855ba9c24fbaea6867f9c0d71
+      internalID: -1646852118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_45
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1471
+        width: 228
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1ea19b1842b2148b272ef6322ec993
+      internalID: -244976660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_46
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1397
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f54f068e17f8f49b751a44e534dc86
+      internalID: -534389392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1376
+        width: 112
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dad2e09e50471a40aa3d0cee0dee421
+      internalID: -20755435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1270
+        width: 129
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1ce31c23e75ad4f9efe7c7db992ae9
+      internalID: 662357320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_49
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1377
+        width: 114
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c703be92e347b439537cc1cd2ed6e4
+      internalID: 1584553886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_50
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1302
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70b750f84392484f9571c6f4172bb00
+      internalID: 1283337806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1072
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e421990f3c3c274eabd9e8b4271fdce
+      internalID: -1013318868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1072
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff62443c16f81a4192da652b1b4abc0
+      internalID: 1257645533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1072
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3a26a4db20a0e4f9510ce3ad16d036
+      internalID: 1842806236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1072
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e23f4c487817e41834dd13b24864bd
+      internalID: -1477845828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1041
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52859656ba757de4a82f399819e9c58e
+      internalID: -489072199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1041
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bdcd458ce01534c8dda9561e813038
+      internalID: 2051431815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_57
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1013
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa3d9a05c9db244198601da1d26c375
+      internalID: -1028773947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1025
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd138ba6dfa551c4587226d38ea9ef7a
+      internalID: -2131779105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1008
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4ed351b4a19d54a990aa97c4f342a8
+      internalID: -92395894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1008
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8398b324b13923d4c869052ca03ba940
+      internalID: -1474072731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_61
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1008
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de54f69a46d5d34f8e6daa93a6e60f4
+      internalID: 1679988698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1008
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5722d62429c11014dbbdf5de6b1ef657
+      internalID: -2090697276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_63
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1013
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fde89a328ba819479f213d07d2d1580
+      internalID: 1744700075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1013
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83660e3d9c78ae459ec479090bc88df
+      internalID: 2078759239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_65
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1013
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06909e1c8c669243be6eb945ceac8ff
+      internalID: -2129653752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 225
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9c4f3160b27a948ad8aa6f10c78688
+      internalID: -2046593068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_67
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 941
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06abc656ee412941b1442e0825ba148
+      internalID: 730425788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 866
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78b107a07bde9e42a1e127dfe288abb
+      internalID: -1136284754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_69
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 863
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b30e89bd05c33d42aac139a5c3d62cc
+      internalID: 263909114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 863
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cf479a395f3a14fbe26ea29514c199
+      internalID: 1539812055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_71
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 863
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9b9a5ccbf7714408b5ab2b7022c6f8
+      internalID: -770418157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d545994a5a9ac46b9709c9854e2340
+      internalID: -1469539725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adccf2e59100dd4b8c8a38daa008dbb
+      internalID: -1614599085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_74
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 871
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84246eb77bd511544a8d2ec4464b5ecc
+      internalID: 66659247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_75
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 863
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979aa78505394f34aae65664fb22de88
+      internalID: -270660704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_76
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 863
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b0ead07d8f0b340994660c6a2f6818
+      internalID: 1585304724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7927234b0c7405479cb01b557e25562
+      internalID: -437968279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_78
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 834
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37208914a9bec8a448b7d5b7de54c77d
+      internalID: 150754788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 834
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02934b41696f53489027a87529dac99
+      internalID: 1272635539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_80
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 834
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68d0393370b51a4db68415d4b497902
+      internalID: 599661865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 767
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f521a241ae58e949a7e7fedfda6b41b
+      internalID: 502434285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 832
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b204fa7998ae9344585dcc21cc2cde80
+      internalID: -1483582941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_83
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 838
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648438b2f7518cf48acf540d0a91b48f
+      internalID: -615899343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_84
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 838
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2283d29fcff97354fb9fc1a195a1ffcd
+      internalID: 404293540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_85
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 832
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2a21cb51c1b94439708fa024af95fd
+      internalID: 303199277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 802
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971d55d52004ed54fa898bc4d998d0e6
+      internalID: -1395542567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_87
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 798
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0182c9da8adfa0c49ad82a7b76ce977b
+      internalID: -1339943910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_88
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 807
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d633dcf019bebb46a1d0ce3a44023b3
+      internalID: 10512548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_89
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 803
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2948f5022d22946a6c01095a9cba8b
+      internalID: 1003880773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_90
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 768
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc6e7f41ab27a4eaca14ab93b73b91
+      internalID: -1272573777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_91
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 707
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3132bd056ba512c408020dbcc04c6595
+      internalID: -434651419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_92
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 800
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 31, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b61d23513ba6c4dab3ab1ecb6a1154
+      internalID: 1971415504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_93
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 769
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe0a274006be14dad7c4c5ae4f4e93
+      internalID: 190381085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_94
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 769
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63ef0d1c6607ed4caa83b58afd379e5
+      internalID: 1820843958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_95
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 771
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbce9eb299d8b04a86802ea99f9dc46
+      internalID: -995250768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 767
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8468aed88c41e014d95df909eff3da59
+      internalID: 60011047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 707
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d62a04ccd6d5684b983cfc398be22ea
+      internalID: -2040781436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_98
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 711
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb574ccdf40b4714596dd120a4e029d0
+      internalID: -1514571313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 590
+        width: 88
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e25694b104a95f44baa55dc43e6db75
+      internalID: 1980774842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_100
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 654
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd962961a0c4b7c43ba9297fce129c38
+      internalID: 1045711318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_101
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 483
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f08277c88824f478d5cdf0d875bc7a
+      internalID: -1529386428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_102
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 543
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0596150166d3bc40af1c84fc6860857
+      internalID: 896194633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d454c3d80392524daf6ca9bf70c5855
+      internalID: -683119245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_104
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 483
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986af0f079f070147a49b2d42f6e0e46
+      internalID: 390589259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_105
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 487
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb746cf5168e9e40aeb32f8c34de243
+      internalID: 256354331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_106
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 486
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0add9964dbacc845a8ef8a5ef004fb1
+      internalID: -1376210259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_107
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 486
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2d86c4752999246817fd1aac506553
+      internalID: 1266128452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_108
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 487
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3160534ea4747744da2dcc9d88136bed
+      internalID: 6998316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 487
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a3e919f84a6394aa8165ee0ea0f688
+      internalID: 90091212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_110
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 488
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a6d619c99983448838313d2f6f483c
+      internalID: -56476336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_111
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 487
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b15600c8f75f244a20649228fe67ba
+      internalID: 1524582530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_112
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 488
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478bf16126628df4a801ca39ec5c6cb4
+      internalID: 1138267322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_113
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 487
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd48974aa15a7468cbd424af9bcf94
+      internalID: -1317865038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 481
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3e3c49c58598b4fad32fc3a4ed2612
+      internalID: 1961008790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_115
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 479
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640177cec804cf548910ca22ae37440d
+      internalID: 700042352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8618e0acbb71fa04886c3da4eaa3ae66
+      internalID: -605239043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_117
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 448
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736999a4b0bfda941bb1d274ea7c1874
+      internalID: -244268525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_118
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 452
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fd8950d8bb3f547827f62000a4d456
+      internalID: 1895487365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_119
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 452
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ac9e73ec1054043a1807a903620a37
+      internalID: 523262845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_120
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 456
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1a468f1b84f674c92cd8f1f4686256
+      internalID: -2106530685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_121
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 449
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec879012647537a42ae69e7b9d12d814
+      internalID: 1239562355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_122
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 447
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2baa09273ff3c4cbd3bb22f7942b37
+      internalID: 1484071076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_123
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 451
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1324ed77bd6f42042980ed3fb7e30f84
+      internalID: -1204757705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_124
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 451
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06878f7113fd5e14da8a89d61c640ffa
+      internalID: -1559338703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_125
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 452
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3faf5859f1bed429a6e21cb5d90dac
+      internalID: -750698637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_126
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 457
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdacf600fefa434f8a29605c4f0eaa5
+      internalID: 785638249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_127
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 449
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc1c6966038a2f499fac84193cff12d
+      internalID: 406723642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_128
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 423
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9118d09d04862ed4889f4752234d505c
+      internalID: -1915359353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_129
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 417
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5052757ed7d5f4f806260618d8e0c5
+      internalID: 48458772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_130
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 422
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c024038ea42cacd419fbcfe8107b3129
+      internalID: 490944386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_131
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 422
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eccdc02a61413468c67c68f9d0c622
+      internalID: 167320944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_132
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 423
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b77a4d1eb69b104d85b40b0b2c55520
+      internalID: 249280318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_133
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 422
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aed3e17a0775d48bbf1556d1153139
+      internalID: -763780726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_134
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 417
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56c44aabfe035b48ad87a18ed3fc7cb
+      internalID: -1261194439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_135
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 422
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a03a3d5e89d91043a2ae1360d2e99b0
+      internalID: -1051905670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_136
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 417
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf0a3d90524eca41a88dca61a95c129
+      internalID: -1397214824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_137
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 423
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fb98b0eeab6ad48bd0f22b3ec692a8
+      internalID: -12638213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 414
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f916291a97a484e449ba6f1f29d1c0ee
+      internalID: -1213864084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_139
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 417
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3604160ed58836c49b3ba5afc3252e24
+      internalID: 133228307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_140
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 432
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0258269b7d531434d96f0aa46b18c3a8
+      internalID: -769916248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_141
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 417
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6611a05a584ab44b9c1adc3fa46cd2
+      internalID: 1137877151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_142
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 387
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f97548a18635b3468ab97cb76cecc43
+      internalID: 1855320421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_143
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 392
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653c706dc12d3fa4980ec67234779a1e
+      internalID: 178762868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_144
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 288
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133408d0c8c11ef47a9f7b5d75356b83
+      internalID: 775940485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_145
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 342
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5343bc4d7030e48a4a83f3ffb7937f
+      internalID: 1578661034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_146
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 353
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f65c03506c0f4448975196d1d1928f
+      internalID: 198647825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_147
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 356
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13b625d508162e4fa3b82d6ad1c7f96
+      internalID: 941160029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_148
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 361
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39ac46962cc8ea41b1ccbfe14cacf9b
+      internalID: 738401377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_149
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 356
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef35507cce95f7848b5749191d274506
+      internalID: 1530688547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_150
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 337
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697e337be1d26cd4b90d1715afbeca6b
+      internalID: -441381339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_151
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 356
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a2a2c695ed19843b8da10b38ff04a6
+      internalID: -1452565550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_152
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 256
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e8fbc84f9d5f4f8601df7e770bfde
+      internalID: -1035047211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_153
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 323
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23be44e043a2011428b048e9752e258c
+      internalID: -1998006141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_154
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 318
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bc50f57e4ef6a42a7199720c87b6f3
+      internalID: -1188128936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_155
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf272dc0da10c42be8038f94edbb3a
+      internalID: 910904119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_156
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 324
+        width: 68
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12437d3b671fafa42af29dd133ae76a5
+      internalID: 1757905706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_157
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 265
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6f2198f1e82b44ea9e0d8768b80e11
+      internalID: 164006197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_158
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 224
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bef0475d2210f04f95445104af01a89
+      internalID: -2009565329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_159
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 290
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5484cc03168c4c941b17598c553d6e68
+      internalID: 1797063880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_160
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 238
+        width: 93
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ef13e6f31de0846ad20441f46053b0
+      internalID: 85539465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_161
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 287
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2201644402e30054eba67c20f849253b
+      internalID: 571620851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_162
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 233
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ef8e3c0bbff8043858bc90494213e4
+      internalID: -1840456215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_163
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 254
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bbb326e10acc7458a0625b67a2ff48
+      internalID: 3175621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1abdae3b07fcd4bb3504604da6caf6
+      internalID: -1691697697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_165
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 229
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fce17e7a66546459e884161d7af74d
+      internalID: 107221869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_166
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 232
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e023941b144b8344eb7e97af397a2361
+      internalID: 201943586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_167
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe075fe827dc76498148759eb6310a2
+      internalID: 1194864589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_168
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 216
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0791adacdf72b45ae545deda7a16e5
+      internalID: 1675568646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c2e5df794f4384494f6804eab5ba06
+      internalID: 1890555961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      victorian-market_116: -605239043
+      victorian-market_151: -1452565550
+      victorian-market_164: -1691697697
+      victorian-market_166: 201943586
+      victorian-market_131: 167320944
+      victorian-market_35: 156053168
+      victorian-market_40: 2094142315
+      victorian-market_41: 1056637540
+      victorian-market_7: 358036344
+      victorian-market_29: 1313472139
+      victorian-market_122: 1484071076
+      victorian-market_82: -1483582941
+      victorian-market_23: 782023625
+      victorian-market_136: -1397214824
+      victorian-market_49: 1584553886
+      victorian-market_157: 164006197
+      victorian-market_87: -1339943910
+      victorian-market_167: 1194864589
+      victorian-market_3: 810482120
+      victorian-market_59: -92395894
+      victorian-market_2: 1521030876
+      victorian-market_148: 738401377
+      victorian-market_50: 1283337806
+      victorian-market_92: 1971415504
+      victorian-market_103: -683119245
+      victorian-market_118: 1895487365
+      victorian-market_105: 256354331
+      victorian-market_44: -1646852118
+      victorian-market_100: 1045711318
+      victorian-market_126: 785638249
+      victorian-market_53: 1842806236
+      victorian-market_19: -1525635665
+      victorian-market_123: -1204757705
+      victorian-market_81: 502434285
+      victorian-market_109: 90091212
+      victorian-market_66: -2046593068
+      victorian-market_155: 910904119
+      victorian-market_4: 45384365
+      victorian-market_169: 1890555961
+      victorian-market_27: 630283595
+      victorian-market_152: -1035047211
+      victorian-market_168: 1675568646
+      victorian-market_54: -1477845828
+      victorian-market_133: -763780726
+      victorian-market_160: 85539465
+      victorian-market_101: -1529386428
+      victorian-market_6: -783775785
+      victorian-market_39: 1245886482
+      victorian-market_79: 1272635539
+      victorian-market_38: -973690204
+      victorian-market_135: -1051905670
+      victorian-market_121: 1239562355
+      victorian-market_143: 178762868
+      victorian-market_149: 1530688547
+      victorian-market_58: -2131779105
+      victorian-market_140: -769916248
+      victorian-market_16: -1567003506
+      victorian-market_32: -474297841
+      victorian-market_45: -244976660
+      victorian-market_161: 571620851
+      victorian-market_10: 563822995
+      victorian-market_17: -514138425
+      victorian-market_46: -534389392
+      victorian-market_99: 1980774842
+      victorian-market_74: 66659247
+      victorian-market_158: -2009565329
+      victorian-market_162: -1840456215
+      victorian-market_96: 60011047
+      victorian-market_20: -953445188
+      victorian-market_145: 1578661034
+      victorian-market_15: 733627953
+      victorian-market_75: -270660704
+      victorian-market_120: -2106530685
+      victorian-market_117: -244268525
+      victorian-market_5: -1109422318
+      victorian-market_156: 1757905706
+      victorian-market_70: 1539812055
+      victorian-market_94: 1820843958
+      victorian-market_115: 700042352
+      victorian-market_28: -784982644
+      victorian-market_22: -1567101866
+      victorian-market_102: 896194633
+      victorian-market_113: -1317865038
+      victorian-market_78: 150754788
+      victorian-market_72: -1469539725
+      victorian-market_52: 1257645533
+      victorian-market_9: 1414040529
+      victorian-market_159: 1797063880
+      victorian-market_0: -1973421227
+      victorian-market_163: 3175621
+      victorian-market_76: 1585304724
+      victorian-market_56: 2051431815
+      victorian-market_86: -1395542567
+      victorian-market_141: 1137877151
+      victorian-market_11: -176255555
+      victorian-market_69: 263909114
+      victorian-market_134: -1261194439
+      victorian-market_8: -207124366
+      victorian-market_146: 198647825
+      victorian-market_77: -437968279
+      victorian-market_127: 406723642
+      victorian-market_137: -12638213
+      victorian-market_83: -615899343
+      victorian-market_104: 390589259
+      victorian-market_139: 133228307
+      victorian-market_55: -489072199
+      victorian-market_85: 303199277
+      victorian-market_153: -1998006141
+      victorian-market_144: 775940485
+      victorian-market_108: 6998316
+      victorian-market_150: -441381339
+      victorian-market_37: -1077483060
+      victorian-market_154: -1188128936
+      victorian-market_98: -1514571313
+      victorian-market_30: -748554612
+      victorian-market_57: -1028773947
+      victorian-market_73: -1614599085
+      victorian-market_61: 1679988698
+      victorian-market_47: -20755435
+      victorian-market_65: -2129653752
+      victorian-market_91: -434651419
+      victorian-market_63: 1744700075
+      victorian-market_95: -995250768
+      victorian-market_147: 941160029
+      victorian-market_31: -910476037
+      victorian-market_42: -100204313
+      victorian-market_68: -1136284754
+      victorian-market_67: 730425788
+      victorian-market_60: -1474072731
+      victorian-market_106: -1376210259
+      victorian-market_97: -2040781436
+      victorian-market_62: -2090697276
+      victorian-market_124: -1559338703
+      victorian-market_110: -56476336
+      victorian-market_125: -750698637
+      victorian-market_129: 48458772
+      victorian-market_107: 1266128452
+      victorian-market_112: 1138267322
+      victorian-market_33: -333245525
+      victorian-market_24: -1265390741
+      victorian-market_111: 1524582530
+      victorian-market_12: 756826536
+      victorian-market_119: 523262845
+      victorian-market_71: -770418157
+      victorian-market_14: -1994745294
+      victorian-market_13: -1155811724
+      victorian-market_93: 190381085
+      victorian-market_34: -1156614197
+      victorian-market_138: -1213864084
+      victorian-market_132: 249280318
+      victorian-market_165: 107221869
+      victorian-market_48: 662357320
+      victorian-market_142: 1855320421
+      victorian-market_26: -1753877444
+      victorian-market_130: 490944386
+      victorian-market_25: -980486810
+      victorian-market_84: 404293540
+      victorian-market_88: 10512548
+      victorian-market_128: -1915359353
+      victorian-market_90: -1272573777
+      victorian-market_114: 1961008790
+      victorian-market_89: 1003880773
+      victorian-market_1: 2111188871
+      victorian-market_64: 2078759239
+      victorian-market_80: 599661865
+      victorian-market_18: 1326748953
+      victorian-market_21: -1655854601
+      victorian-market_51: -1013318868
+      victorian-market_36: 336002088
+      victorian-market_43: -1828193929
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
